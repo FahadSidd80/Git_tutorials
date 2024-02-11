@@ -18,14 +18,12 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
 
-app.MapControllers();
-
-app.Run();
 
 -----------
 Just do some changes here for git 
 
 -----------
 doing another changes
+
+    
