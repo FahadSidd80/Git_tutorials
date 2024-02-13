@@ -31,5 +31,5 @@ gitt difference
 
 ---------------------- git difference added
 
---------git diff program.cs 
+--------git diff program.cs  staged
     
